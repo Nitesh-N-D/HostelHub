@@ -33,8 +33,7 @@ import { IconComponent } from '../icon/icon.component';
         <div>
           <h4 class="text-sm font-semibold uppercase tracking-[0.18em] text-neutral-500">Contact</h4>
           <div class="mt-4 grid gap-3 text-sm text-neutral-300">
-            <span>support@hostelhub.app</span>
-            <span>University Partner Desk</span>
+            <span>niteshdwaraka@gmail.com</span>
           </div>
         </div>
 
