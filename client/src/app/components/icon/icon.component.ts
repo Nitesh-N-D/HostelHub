@@ -33,6 +33,18 @@ import { Component, input } from '@angular/core';
         <ng-container *ngSwitchCase="'profile'">
           <path d="M20 21a8 8 0 0 0-16 0"></path><circle cx="12" cy="7" r="4"></circle>
         </ng-container>
+        <ng-container *ngSwitchCase="'linkedin'">
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6z"></path>
+  <rect x="2" y="9" width="4" height="12"></rect>
+  <circle cx="4" cy="4" r="2"></circle>
+</ng-container>
+<ng-container *ngSwitchCase="'github'">
+  <path d="M12 2C6.5 2 2 6.6 2 12.3c0 4.6 2.9 8.5 6.9 9.8.5.1.7-.2.7-.5v-1.8c-2.8.6-3.4-1.4-3.4-1.4-.5-1.2-1.1-1.6-1.1-1.6-.9-.7.1-.7.1-.7 1 .1 1.6 1.1 1.6 1.1.9 1.6 2.4 1.1 3 .9.1-.7.3-1.1.6-1.3-2.2-.3-4.5-1.1-4.5-5 0-1.1.4-2 1-2.7-.1-.3-.4-1.3.1-2.6 0 0 .8-.3 2.8 1 .8-.2 1.6-.3 2.4-.3s1.6.1 2.4.3c2-1.3 2.8-1 2.8-1 .5 1.3.2 2.3.1 2.6.6.7 1 1.6 1 2.7 0 3.9-2.3 4.7-4.5 5 .4.3.7 1 .7 2v3c0 .3.2.6.7.5 4-1.3 6.9-5.2 6.9-9.8C22 6.6 17.5 2 12 2z"/>
+</ng-container>
+<ng-container *ngSwitchCase="'mail'">
+  <path d="M4 4h16v16H4z"></path>
+  <path d="m22 6-10 7L2 6"></path>
+</ng-container>
         <ng-container *ngSwitchCase="'menu'">
           <path d="M4 12h16"></path><path d="M4 6h16"></path><path d="M4 18h16"></path>
         </ng-container>
