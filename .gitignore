@@ -1,0 +1,11 @@
+node_modules
+dist
+coverage
+.angular
+.env
+server/node_modules
+client/node_modules
+client/.angular
+client/dist
+server/uploads
+*.log
