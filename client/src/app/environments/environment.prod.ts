@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://your-render-backend.onrender.com/api'
+  apiUrl: 'https://hostelhub-4frg.onrender.com/api',
 };
