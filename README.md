@@ -1,3 +1,9 @@
+## 🌐 Live Demo
+
+[![Frontend](https://img.shields.io/badge/Frontend-HostelHub-purple?style=for-the-badge&logo=vercel)](https://hostel-hub-gules.vercel.app/)
+
+[![Backend](https://img.shields.io/badge/Backend-API-green?style=for-the-badge&logo=render)](https://hostelhub-4frg.onrender.com)
+
 # HostelHub
 
 HostelHub is a MEAN stack hostel management platform for students and hostel admins.
